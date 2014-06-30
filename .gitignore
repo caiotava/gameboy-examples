@@ -3,6 +3,8 @@
 *.ko
 *.obj
 *.elf
+*.map
+*.lst
 
 # Libraries
 *.lib
