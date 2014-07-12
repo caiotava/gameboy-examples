@@ -1,4 +1,4 @@
-side-scrolling-gameboy
+Gameboy examples
 ======================
 
-Simple example of side scrolling game for GameBoy, written with GBDK.
+Simple examples of games for GameBoy, written with GBDK.
