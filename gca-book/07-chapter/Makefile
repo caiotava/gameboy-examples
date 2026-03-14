@@ -1,4 +1,7 @@
-all: 07-01-background.gb 07-02-background-broken.gb 07-03-background-fixed.gb
+all: 07-01-background.gb \
+	07-02-background-broken.gb \
+	07-03-background-fixed.gb \
+	07-04-window.gb
 
 %.o: %.asm
 	rgbasm -Werror -Weverything -o $@ $^
